@@ -1,0 +1,3 @@
+This repository contains a machine learning project focused on predicting protein subcellular localization in Saccharomyces cerevisiae using classical, sequence-derived features. The goal is to provide a clear, interpretable baseline model that illustrates how early bioinformatics features can be used for multiclass classification, while allowing users to experiment with model choices, preprocessing strategies, and evaluation methods.
+
+The dataset includes 1,484 yeast proteins, each described by 8 numerical features derived from protein sequence analysis and a categorical localization label with 10 possible classes (e.g., cytoplasmic, nuclear, mitochondrial).
